@@ -3,7 +3,7 @@
 Dieses kleine Programm ermöglicht es ganz einfach und ohne großen Aufwand die Mod "The Other Roles" für Among Us zu installieren.
 
 ## Wie benutze ich es?
-1. [Downloade die neuste Version](https://github.com/DasMonschta/tori/releases/download/2.7.2/TORI_v2.7.2.bat)
+1. [Downloade die neuste Version](https://github.com/DasMonschta/tori/releases/download/1.0/TORI_v1_0.bat)
 2. Führe die TORI_v1_0.bat aus
 
 Der Rest sollte kinderleicht und verständlich sein.
