@@ -9,9 +9,9 @@ Dieses kleine Programm ermöglicht es ganz einfach und ohne großen Aufwand die 
 Der Rest sollte kinderleicht und verständlich sein.
 
 ## Was kann es?
-1. Check auomatisch nach Updates für das Programm. So bist du immer auf dem neusten Stnad
+1. Prüft automatisch nach Updates für das Programm. So bist du immer auf dem neusten Stand
 2. Erkennt im Regelfall wo sich dein Among Us Ordner befindet
-3. Kann immer die letzten 9 The Other Roles Mod Versionen installiern
+3. Kann immer die letzten 9 The Other Roles Mod Versionen installieren
 4. Auch die BETA Versionen!
 5. Auswahl zwischen Installation im extra Ordner oder im Hauptspiel
 6. Desktop-Verknüpfung anlegen
