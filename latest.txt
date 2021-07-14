@@ -1,2 +1,2 @@
-v1.0
+v1.1
 https://github.com/DasMonschta/tori/releases/download/2.7.2/TORI_v2.7.2.bat
